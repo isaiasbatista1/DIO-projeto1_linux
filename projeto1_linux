@@ -6,7 +6,7 @@ ls -a #comando no linux para listar tudo o que tem dentro deste local(aparece at
 iac1.sh #nome arquivo 
 nano iac1.sh #nano é um editor de texto do linux
 
-#!/bin/bash
+#!/bin/bash  #esse comando é necessário ser inserido na primeira linha do nano
 
 echo "Criando diretórios"
 
